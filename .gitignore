@@ -1,0 +1,3 @@
+# from Jupyter notebooks
+# skip checkpoints
+.ipynb_checkpoints/
