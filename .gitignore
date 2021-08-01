@@ -3,4 +3,4 @@
 .ipynb_checkpoints/
 
 # virtual env
-env/
+.venv
