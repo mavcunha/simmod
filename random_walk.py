@@ -10,7 +10,7 @@ def random_walk():
         r += 1 if randint(0,1) else -1
     return r
 
-def experiments(n):
+def experiment(n):
     experiments = n
     total = 0
     for _ in range(1, experiments + 1):
